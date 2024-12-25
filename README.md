@@ -10,8 +10,6 @@ Je suis curieux, j’aime coder, et je cherche toujours à m’améliorer dans c
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -30,7 +28,7 @@ Je suis curieux, j’aime coder, et je cherche toujours à m’améliorer dans c
 ## 🚀 Portfolio
 
 Envie d'en savoir plus sur moi ? <br>
-[👉 Visitez mon portfolio 👈](https://william-cheron.netlify.app)
+[👉 Visitez mon portfolio 👈](https://william-cheron.pro)
 
 ---
 
